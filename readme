@@ -1,0 +1,7 @@
+
+Introduction:- This is a restful API, the motive to build this API is to 
+               manipulate user-defined data through POSTMAN using POST, 
+               GET, PUT/PATCH, DELETE i.e CRUD operations.  
+
+Build using ? :- Nodejs, Expressjs, MongoDB, Mongoose.
+                 Dependency used validator.
